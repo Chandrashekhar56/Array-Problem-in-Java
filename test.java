@@ -1,7 +1,6 @@
 import java.util.*;
 public class test{
 public static void main(String[] args) {
-
     int []arr=new int[1000];
     Scanner s=new Scanner(System.in);
     int i,j,input=0,count=0;
